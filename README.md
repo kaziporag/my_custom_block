@@ -1,1 +1,1 @@
-My First Block Plugin.
+My First Block WordPress Plugin.
